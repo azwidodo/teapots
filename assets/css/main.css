@@ -76,7 +76,7 @@
 	}
 
 	body {
-		background: rgb(246,214,154);
+		background: rgb(255, 232, 189);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -541,7 +541,7 @@
 	.box {
 		border-radius: 4px;
 		margin-bottom: 2em;
-		background: #2c2c32;
+		background: #322e2c;
 		text-align: center;
 	}
 
@@ -1365,7 +1365,7 @@
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background-color: #1b1b1f;
+		background-color: #322e2c;
 		text-align: center;
 	}
 
